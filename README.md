@@ -216,6 +216,7 @@ If you use this code, please cite the original paper:
 
 - [DAS-based Railroad CM with GRU/LSTM](https://doi.org/10.1117/1.JRS.18.016512) — *SPIE Journal of Applied Remote Sensing*, 2024
 - [Review of DAS Applications for Railroad CM](https://www.sciencedirect.com/science/article/abs/pii/S0888327023008919) — *Mechanical Systems and Signal Processing*, Elsevier
+- [Engineering Knowledge Assistant (RAG)](https://github.com/arifme071/engineering-knowledge-rag) — Query this research via natural language
 
 ---
 

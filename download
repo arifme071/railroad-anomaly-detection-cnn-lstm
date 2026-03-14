@@ -1,0 +1,34 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — raw industrial data never committed
+data/raw/
+data/processed/
+*.csv
+!data/sample/*.csv
+
+# Model weights
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Results
+results/figures/*.png
+results/metrics/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
